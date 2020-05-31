@@ -1,2 +1,0 @@
-# large-internet-collider
-@lightspeed
